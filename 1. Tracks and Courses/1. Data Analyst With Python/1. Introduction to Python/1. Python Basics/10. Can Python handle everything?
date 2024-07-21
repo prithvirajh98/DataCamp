@@ -1,0 +1,18 @@
+Exercise
+Can Python handle everything?
+Now that you know something more about combining different sources of information, have a look at the four Python expressions below. Which one of these will throw an error? You can always copy and paste this code in the IPython Shell to find out!
+
+Instructions
+50 XP
+Possible answers
+
+
+Option A: "I can add integers, like " + str(5) + " to strings."
+
+Option B: "I said " + ("Hey " * 2) + "Hey!"
+
+Option C: "The correct answer to this multiple choice exercise is answer number " + 2
+
+Option D: True + False
+
+Ans: Option C: "The correct answer to this multiple choice exercise is answer number " + 2
